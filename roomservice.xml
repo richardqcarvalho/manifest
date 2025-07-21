@@ -2,7 +2,7 @@
 <manifest>
 	<project path="device/xiaomi/taoyao" name="richardqcarvalho/device_xiaomi_taoyao" remote="github-non-los" revision="bka" />
 	<project path="hardware/xiaomi" name="hardware_xiaomi" remote="evo-devices" />
-	<project path="kernel/xiaomi/taoyao" name="kernel_xiaomi_taoyao" remote="github-non-los" revision="bka" />
+	<project path="kernel/xiaomi/taoyao" name="richardqcarvalho/kernel_xiaomi_taoyao" remote="github-non-los" revision="bka" />
 	<project path="packages/apps/ViPER4AndroidFX" name="packages_apps_ViPER4AndroidFX" remote="evo-devices" />
 	<project path="vendor/xiaomi/taoyao" name="richardqcarvalho/vendor_xiaomi_taoyao" remote="github-non-los" revision="bka" />
 </manifest>
