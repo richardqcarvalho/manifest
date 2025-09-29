@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<project path="device/xiaomi/taoyao-camera" name="richardqcarvalho/device_xiaomi_taoyao-camera" remote="github-non-los" revision="bka" />
+	<project path="device/xiaomi/taoyao-kernel" name="richardqcarvalho/device_xiaomi_taoyao-kernel" remote="github-non-los" revision="bka" />
 	<project path="device/xiaomi/taoyao" name="richardqcarvalho/device_xiaomi_taoyao" remote="github-non-los" revision="bka" />
 	<project path="hardware/dolby" name="hardware_dolby" remote="evo-devices" />
 	<project path="hardware/sony/timekeep" name="LineageOS/android_hardware_sony_timekeep" remote="github-non-los" revision="lineage-22.2" />
 	<project path="hardware/xiaomi" name="hardware_xiaomi" remote="evo-devices" />
 	<project path="kernel/xiaomi/taoyao" name="richardqcarvalho/kernel_xiaomi_taoyao-unstable" remote="github-non-los" revision="bka" />
+	<project path="vendor/xiaomi/taoyao-camera" name="richardqcarvalho/vendor_xiaomi_taoyao-camera" remote="github-non-los" revision="bka" />
 	<project path="vendor/xiaomi/taoyao" name="richardqcarvalho/vendor_xiaomi_taoyao" remote="github-non-los" revision="bka" />
 </manifest>
